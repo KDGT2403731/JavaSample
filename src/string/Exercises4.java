@@ -7,7 +7,6 @@ public class Exercises4 {
 		return cleaned.equals(reversed);
 	}
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
 		System.out.println(isPalindrome("level"));
 		System.out.println(isPalindrome("hello"));
 	}
